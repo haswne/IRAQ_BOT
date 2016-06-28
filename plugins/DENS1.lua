@@ -41,7 +41,7 @@ return {
 description = "Help list", 
 usage = "Help list",
 patterns = {
-"^(مساعدة2)$",
+"^(اوكار2)$",
 },
 run = run 
 }
