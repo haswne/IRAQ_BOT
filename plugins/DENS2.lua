@@ -71,11 +71,10 @@ local S = [[
 ✖️ فتح اعاده توجيه : سماح باعادة 
 ➖➖➖➖➖➖➖➖➖
 
-                          ➰ قنــاة البوت 👇🏽
-#Des : @Mmed_98 👁‍🗨
+                          ➰ مطور البوت
+#Des : @DVR_KAKAHE👁‍🗨
 
-قروب قميل ادخل يا قميل 
-https://telegram.me/joinchat/CjIxVz4fnQJ3obpWb-Ysiw
+
  ]]
 reply_msg(reply_id, S, ok_cb, false)
 end
@@ -90,7 +89,7 @@ return {
 description = "Help list", 
 usage = "Help list",
 patterns = {
-"^(اوكار)$",
+"^(مساعدة)$",
 },
 run = run 
 }
