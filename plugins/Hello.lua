@@ -64,11 +64,11 @@ local function description_rules(msg, nama)
       local text = text.."                                               "
       local text = text.."للخروج من المجموعة : مغادره ☹️"
       local text = text..""
-      local text = text.."                                               "
-      local text = text.."قنأة البوت 👇🏻]"
+      local text = text.."                         المطور حسن الهتر         "
+      local text = text..""
       local text = text..""
       local text = text.."                                               "
-      local text = text.."@Mmed_98 \n✋🏿☝🏿️"
+      local text = text.."@DVR_KAKAHE \n✋🏿☝🏿️"
       local receiver = get_receiver(msg)
       send_large_msg(receiver, text, ok_cb, false)
    end
