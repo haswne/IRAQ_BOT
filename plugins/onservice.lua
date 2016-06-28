@@ -1,5 +1,5 @@
 --[[ 
-@j_Ff_Aa_Rr
+@DVR_KAKAHE
 --]]
 do
 
@@ -18,7 +18,7 @@ end
  
 return {
   patterns = {
-    "^(اوكار غادر)$",
+    "^(بوت غادر)$",
     "^!!tgservice (.+)$",
   },
   run = run
