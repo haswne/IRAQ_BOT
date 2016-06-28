@@ -1,5 +1,5 @@
-سًــــــٌورس أؤكار
-# [Sor_tem](https://telegram.me/S94IQ)
+#سًــــــٌورس العراق
+# حسن الهتر
 
 
 *******************************************************************
@@ -16,11 +16,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/DrossTech/Sor_tem.git
+git clone https://github.com/haswne/IRAQ_BOT.git
 *****************************************************
 ورهأ خلي 👇🏿y
 **************************
-cd Sor_tem
+cd IRAQ_BOT
 **************************
 ورهأَ خلي👇
 **************************
@@ -43,9 +43,8 @@ chmod +x launch.sh
     YourID
   }
 
-#Dev : @lssui
-#Dev : @prnice1
-#Dev : @Mmed_94Bot
+#Dev : @HASSN_BKS
+#Dev : @DVR_KAKAHE
 
 ```
 
